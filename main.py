@@ -4,7 +4,7 @@ from PyPDF2 import PdfReader
 from utill import compare
 
 # Токен вашего бота, который вы получили от @BotFather
-API_TOKEN = '7463369543:AAF90Ol-BYuSqV0V3F0xemdosgGAYobf4K8'
+API_TOKEN = ''
 
 # Создаем объект бота
 bot = telebot.TeleBot(API_TOKEN)
