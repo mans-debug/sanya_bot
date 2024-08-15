@@ -10,5 +10,11 @@
     "ver": "1.5",
     "creator": "JasperReports Library version 6.20.3-415f9428cffdb6805c6f85bbb29ebaf18813a2ab",
     "producer": "OpenPDF 1.3.30.jaspersoft.2"
+  },
+  {
+    "name": "Альфа",
+    "ver": "1.4",
+    "creator": null,
+    "producer": "Oracle BI Publisher 10.1.3.4.1"
   }
 ]
